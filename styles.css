@@ -21,7 +21,7 @@ body {
     position: relative;
     display:flex;
     justify-self: center;
-    align-content: center;
+    align-items: center;
   }
   
   .pastry {
@@ -29,7 +29,9 @@ body {
     padding: 20px;
     border-radius: 50%;
     font-size: 18px;
-    position: absolute; 
+    position: relative; 
+    
+    
   }
   
   .pastry img {
