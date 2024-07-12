@@ -18,7 +18,10 @@ body {
     padding: 80px;
     border-radius: 10px;
     width: 80%;
-    position: relative; 
+    position: relative;
+    display:flex;
+    justify-self: center;
+    align-content: center;
   }
   
   .pastry {
